@@ -61,9 +61,9 @@ Also you won't develop everything, each project will be evaluated, and you may p
 
 We run like a software company, using slack, trello, and standups to drive the business forward, but we think like creatives, so anything needs to be at least possible in theory...
 
-The candidate would lead the development of the team under them, and the tech stack. We would need to use code to leverage the business.
+The candidate would lead the development of the team under them, and the 
 
-I'm not looking for someone average. I want a rockstar, who can achieve 10x productivity, and more importantly inspire it.
+We don't do average. We want a rockstar, who can achieve 10x productivity, and more importantly inspire it, however we have a no asshole rule
 
 ####Key skills - or ability to learn quickly
 
@@ -72,3 +72,13 @@ I'm not looking for someone average. I want a rockstar, who can achieve 10x prod
 - Mobile Apps - Swift
 - Tools - He must be the love child of REST APIS, and grunt while updating his npm from the bash prompt, while unit testing as he compiles his hot code refreshes...
 
+####Deets
+
+We are based in Umhlanga, but we are open to remote work, so if you be awesome and you choose to live in the Maluti mountains so that you can improve your coffee tree passion fruit hyrbids, thats cool. You just need  a shot hot internet connection.
+
+
+####So git going....
+
+Use the email admin+10K@hodaridigital.com and the deets we need...
+
+Cheers
