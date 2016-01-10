@@ -32,7 +32,7 @@ That’s right. Ten thousand clams.
 
 The fine print is that we will pay you 120 days after the person has held a full time Engineering position with us and they are doing awesome.
 
-You must be the first person to refer the candidate from any source. By submitting the form below, we will record the date and time of submission along with the candidate's name.
+You must be the first person to refer the candidate from any source. By submitting the email below, we will record the date and time of submission along with the candidate's name.
 
 Our decision on who submitted first will be final but because we get lots of referrals, we can’t tell you if you are first until we actually contact/hire the person.
 
@@ -40,7 +40,7 @@ Unlike diamonds, your referral doesn’t last forever. If we can’t meet with t
 
 The rest is up to you.
 
-*We can decide to stop this program or change the rules at any time. If we do, we'll post them on this page.
+*We can decide to stop this program or change the rules at any time. If we do, we'll post them on this page.*
 
 
 ####The person
